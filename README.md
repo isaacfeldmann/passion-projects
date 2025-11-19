@@ -6,7 +6,7 @@ This short script uses the ollama library to bring an AI model into a Python scr
 
 I created this project because I've been very interested in learning more about AI as it grows. I used a lightweight, less intelligent model so that I could run it somewhat effectively with only laptop resources. 
 Moving forward, I'd like to expand on this project in a few ways:
-    - Activate using a keyword like a smart home assistant
-    - be able to read, write, and create/delete files of various formats
-    - recognize objects using the device's camera
-    - make it a separate app so that it does not have to be run in a terminal
+- Activate using a keyword like a smart home assistant
+- be able to read, write, and create/delete files of various formats
+- recognize objects using the device's camera
+- make it a separate app so that it does not have to be run in a terminal
