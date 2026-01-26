@@ -10,3 +10,11 @@ Moving forward, I'd like to expand on this project in a few ways:
 - be able to read, write, and create/delete files of various formats
 - recognize objects using the device's camera
 - make it a separate app so that it does not have to be run in a terminal
+
+-- speech recognition test --
+
+This is another short project I've made that would potentially assist with my AI experimentation. This script takes the provided sample audio, loads it into OpenAI's Whisper model, and then transcribes the contents of the file.
+
+This project could be expanded in various directions once given the proper tools. If this program were modified to pick up on current speech and then immediately transcribe the audio, it could:
+- Be combined with the AI script to create and chat bot using the user's voice.
+- Be used to transcribe lectures and then, with help from AI, summarize the transcription.
